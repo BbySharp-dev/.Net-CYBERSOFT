@@ -1,0 +1,15 @@
+/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/bin/Debug/net8.0/console-app
+/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/bin/Debug/net8.0/console-app.deps.json
+/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/bin/Debug/net8.0/console-app.runtimeconfig.json
+/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/bin/Debug/net8.0/console-app.dll
+/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/bin/Debug/net8.0/console-app.pdb
+/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/obj/Debug/net8.0/console-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/obj/Debug/net8.0/console-app.AssemblyInfoInputs.cache
+/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/obj/Debug/net8.0/console-app.AssemblyInfo.cs
+/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/obj/Debug/net8.0/console-app.csproj.CoreCompileInputs.cache
+/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/obj/Debug/net8.0/console-app.sourcelink.json
+/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/obj/Debug/net8.0/console-app.dll
+/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/obj/Debug/net8.0/refint/console-app.dll
+/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/obj/Debug/net8.0/console-app.pdb
+/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/obj/Debug/net8.0/console-app.genruntimeconfig.cache
+/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/obj/Debug/net8.0/ref/console-app.dll

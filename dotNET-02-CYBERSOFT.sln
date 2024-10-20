@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day2-CSharp-Foundation", "Day2-CSharp-Foundation", "{D6058EE5-6275-4952-9398-A9DE8BB77C7A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "console-app", "Day2-CSharp-Foundation\console-app\console-app.csproj", "{BF9AC3BF-402D-4E3B-9413-0D0A2D8993FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF9AC3BF-402D-4E3B-9413-0D0A2D8993FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9AC3BF-402D-4E3B-9413-0D0A2D8993FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9AC3BF-402D-4E3B-9413-0D0A2D8993FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9AC3BF-402D-4E3B-9413-0D0A2D8993FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF9AC3BF-402D-4E3B-9413-0D0A2D8993FD} = {D6058EE5-6275-4952-9398-A9DE8BB77C7A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D3AB5F0-B595-49CE-AFCB-3F9466B55147}
+	EndGlobalSection
+EndGlobal
