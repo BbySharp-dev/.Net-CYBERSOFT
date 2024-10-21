@@ -16,7 +16,7 @@ namespace console_app
             Console.WriteLine("\n8. Tính tỷ lệ phần trăm");
             Console.WriteLine("\n9. Chuyển đổi từ km/h sang m/s");
             Console.WriteLine("\n10. Tính lượng calo tiêu thụ");
-            Console.WriteLine("\nChọn bài tập để thực hiện (1-10):");
+            Console.Write("\nChọn bài tập để thực hiện (1-10):");
 
             int choice = Convert.ToInt32(Console.ReadLine());
 
@@ -24,18 +24,28 @@ namespace console_app
             {
                 case 1:
                     Console.WriteLine("\nBài tập 1: Tính số tuần và số ngày lẻ");
+                    var exercise1 = new Exercise1();
+                    exercise1.Run();
                     break;
                 case 2:
                     Console.WriteLine("\nBài tập 2: Tính tổng giá trị đơn hàng sau khi áp dụng giảm giá");
+                    var exercise2 = new Exercise2();
+                    exercise2.Run();
                     break;
                 case 3:
                     Console.WriteLine("\nBài tập 3: Chuyển đổi thời gian từ phút sang giờ và phút");
+                    var exercise3 = new Exercise3();
+                    exercise3.Run();
                     break;
                 case 4:
                     Console.WriteLine("\nBài tập 4: Tính tổng số tiền sau khi cộng thêm thuế VAT");
+                    var exercise4 = new Exercise4();
+                    exercise4.Run();
                     break;
                 case 5:
                     Console.WriteLine("\nBài tập 5: Chuyển đổi đơn vị tiền tệ");
+                    var exercise5 = new Exercise5();
+                    exercise5.Run();
                     break;
                 case 6:
                     Console.WriteLine("\nBài tập 6: Tính số dư sau khi rút tiền từ tài khoản");
