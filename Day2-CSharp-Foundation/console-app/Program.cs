@@ -49,18 +49,28 @@ namespace console_app
                     break;
                 case 6:
                     Console.WriteLine("\nBài tập 6: Tính số dư sau khi rút tiền từ tài khoản");
+                    var exercise6 = new Exercise6();
+                    exercise6.Run();
                     break;
                 case 7:
                     Console.WriteLine("\nBài tập 7: Tính tốc độ trung bình");
+                    var exercise7 = new Exercise7();
+                    exercise7.Run();
                     break;
                 case 8:
                     Console.WriteLine("\nBài tập 8: Tính tỷ lệ phần trăm");
+                    var exercise8 = new Exercise8();
+                    exercise8.Run();
                     break;
                 case 9:
                     Console.WriteLine("\nBài tập 9: Chuyển đổi từ km/h sang m/s");
+                    var exercise9 = new Exercise9();
+                    exercise9.Run();
                     break;
                 case 10:
                     Console.WriteLine("\nBài tập 10: Tính lượng calo tiêu thụ");
+                    var exercise10 = new Exercise10();
+                    exercise10.Run();
                     break;
                 default:
                     Console.WriteLine("Bài tập không hợp lệ! Vui lòng chọn từ 1-10.");
