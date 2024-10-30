@@ -20,10 +20,11 @@ namespace CSharp_BaiTap
                 Console.WriteLine("\n8. Tính tiền taxi");
                 Console.WriteLine("\n9. Kiểm tra ký tự nguyên âm hay phụ âm");
                 Console.WriteLine("\n10. Xác định loại vé máy bay");
-                Console.WriteLine("\n11. Thoát");
+                Console.WriteLine("\n11. Bài học buổi 3");
+                Console.WriteLine("\n12. Thoát");
                 Console.WriteLine("Chọn bài tập để chạy.");
 
-                Console.Write("Nhập lựa chọn của bạn: ");
+                Console.Write("\nNhập lựa chọn của bạn: ");
                 string choice = Console.ReadLine();
 
                 switch (choice)
@@ -59,6 +60,9 @@ namespace CSharp_BaiTap
                         Bai10_XacDinhLoaiMayBay.Bai10_XacDinhLoaiMayBay.Run();
                         break;
                     case "11":
+                        BaiHocBuoi3.BaiHocBuoi3.Run();
+                        break;
+                    case "12":
                         exit = true;
                         break;
                     default:

@@ -18,9 +18,8 @@ namespace console_app.Exercises
         public void Run()
         {
             Console.WriteLine("Nhập vào giá trị của đơn hàng:");
-            string? giaTriDonHangInput = Console.ReadLine();
 
-            if (string.IsNullOrWhiteSpace(giaTriDonHangInput) || !decimal.TryParse(giaTriDonHangInput, out decimal giaTriCuaDonHang))
+            if (!decimal.TryParse(Console.ReadLine(), out decimal giaTriCuaDonHang))
             {
                 Console.WriteLine("Vui lòng nhập giá trị của đơn hàng hợp lệ và không để trống.");
                 return;
@@ -33,9 +32,8 @@ namespace console_app.Exercises
             }
 
             Console.WriteLine("Nhập vào phần trăm giảm giá của đơn hàng:");
-            string? phanTramGiamGiaInput = Console.ReadLine();
 
-            if (string.IsNullOrWhiteSpace(phanTramGiamGiaInput) || !decimal.TryParse(phanTramGiamGiaInput, out decimal phanTramGiamGia))
+            if (!decimal.TryParse(Console.ReadLine(), out decimal phanTramGiamGia))
             {
                 Console.WriteLine("Vui lòng nhập phần trăm giảm giá hợp lệ và không để trống.");
                 return;

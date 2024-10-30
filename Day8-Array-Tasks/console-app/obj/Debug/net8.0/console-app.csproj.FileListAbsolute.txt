@@ -1,0 +1,15 @@
+/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day8-Array-Tasks/console-app/bin/Debug/net8.0/console-app
+/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day8-Array-Tasks/console-app/bin/Debug/net8.0/console-app.deps.json
+/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day8-Array-Tasks/console-app/bin/Debug/net8.0/console-app.runtimeconfig.json
+/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day8-Array-Tasks/console-app/bin/Debug/net8.0/console-app.dll
+/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day8-Array-Tasks/console-app/bin/Debug/net8.0/console-app.pdb
+/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day8-Array-Tasks/console-app/obj/Debug/net8.0/console-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day8-Array-Tasks/console-app/obj/Debug/net8.0/console-app.AssemblyInfoInputs.cache
+/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day8-Array-Tasks/console-app/obj/Debug/net8.0/console-app.AssemblyInfo.cs
+/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day8-Array-Tasks/console-app/obj/Debug/net8.0/console-app.csproj.CoreCompileInputs.cache
+/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day8-Array-Tasks/console-app/obj/Debug/net8.0/console-app.sourcelink.json
+/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day8-Array-Tasks/console-app/obj/Debug/net8.0/console-app.dll
+/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day8-Array-Tasks/console-app/obj/Debug/net8.0/refint/console-app.dll
+/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day8-Array-Tasks/console-app/obj/Debug/net8.0/console-app.pdb
+/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day8-Array-Tasks/console-app/obj/Debug/net8.0/console-app.genruntimeconfig.cache
+/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day8-Array-Tasks/console-app/obj/Debug/net8.0/ref/console-app.dll
