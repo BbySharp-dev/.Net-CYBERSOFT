@@ -1,0 +1,15 @@
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session3/obj/Debug/net8.0/session3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session3/obj/Debug/net8.0/session3.AssemblyInfoInputs.cache
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session3/obj/Debug/net8.0/session3.AssemblyInfo.cs
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session3/obj/Debug/net8.0/session3.csproj.CoreCompileInputs.cache
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session3/obj/Debug/net8.0/session3.sourcelink.json
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session3/bin/Debug/net8.0/session3
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session3/bin/Debug/net8.0/session3.deps.json
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session3/bin/Debug/net8.0/session3.runtimeconfig.json
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session3/bin/Debug/net8.0/session3.dll
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session3/bin/Debug/net8.0/session3.pdb
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session3/obj/Debug/net8.0/session3.dll
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session3/obj/Debug/net8.0/refint/session3.dll
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session3/obj/Debug/net8.0/session3.pdb
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session3/obj/Debug/net8.0/session3.genruntimeconfig.cache
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session3/obj/Debug/net8.0/ref/session3.dll

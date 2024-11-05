@@ -1,0 +1,15 @@
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/test/bin/Debug/net8.0/test
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/test/bin/Debug/net8.0/test.deps.json
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/test/bin/Debug/net8.0/test.runtimeconfig.json
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/test/bin/Debug/net8.0/test.dll
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/test/bin/Debug/net8.0/test.pdb
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/test/obj/Debug/net8.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/test/obj/Debug/net8.0/test.AssemblyInfoInputs.cache
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/test/obj/Debug/net8.0/test.AssemblyInfo.cs
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/test/obj/Debug/net8.0/test.csproj.CoreCompileInputs.cache
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/test/obj/Debug/net8.0/test.sourcelink.json
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/test/obj/Debug/net8.0/test.dll
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/test/obj/Debug/net8.0/refint/test.dll
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/test/obj/Debug/net8.0/test.pdb
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/test/obj/Debug/net8.0/test.genruntimeconfig.cache
+/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/test/obj/Debug/net8.0/ref/test.dll
