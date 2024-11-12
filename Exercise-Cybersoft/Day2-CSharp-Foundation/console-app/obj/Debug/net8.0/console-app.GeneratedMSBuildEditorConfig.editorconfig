@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = console_app
-build_property.ProjectDir = /Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/
+build_property.ProjectDir = /Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

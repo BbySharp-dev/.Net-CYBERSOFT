@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/dinhduyphuong/.nuget/packages/": {}
+    "/Users/roots/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session2/session2.csproj",
+      "projectUniqueName": "/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Session-Sources/session2/session2.csproj",
       "projectName": "session2",
-      "projectPath": "/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session2/session2.csproj",
-      "packagesPath": "/Users/dinhduyphuong/.nuget/packages/",
-      "outputPath": "/Users/dinhduyphuong/Desktop/cyber_sharp/cybersoft_dotnet2/session2/obj/",
+      "projectPath": "/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Session-Sources/session2/session2.csproj",
+      "packagesPath": "/Users/roots/.nuget/packages/",
+      "outputPath": "/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Session-Sources/session2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/dinhduyphuong/.nuget/NuGet/NuGet.Config"
+        "/Users/roots/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

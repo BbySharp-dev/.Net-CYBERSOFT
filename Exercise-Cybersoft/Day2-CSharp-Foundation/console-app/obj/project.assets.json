@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/console-app.csproj",
+      "projectUniqueName": "/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/console-app.csproj",
       "projectName": "console-app",
-      "projectPath": "/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/console-app.csproj",
+      "projectPath": "/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/console-app.csproj",
       "packagesPath": "/Users/roots/.nuget/packages/",
-      "outputPath": "/Users/roots/Cybersoft(.NET)/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/obj/",
+      "outputPath": "/Users/roots/BbySharp-dev/dotNET-02-CYBERSOFT/Day2-CSharp-Foundation/console-app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/roots/.nuget/NuGet/NuGet.Config"
